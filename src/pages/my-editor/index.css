@@ -1,0 +1,12 @@
+.container{
+  display: flex;
+}
+
+.editor{
+  width: 1000px;
+}
+
+.diy-node {
+  width: 300px;
+  margin-left: 20px;
+}
