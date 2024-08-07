@@ -81,7 +81,7 @@ const MyEditor: React.FC = () => {
         </div>
         <div className='diy-node'>
           点击下方添加自定义样式
-          <div dangerouslySetInnerHTML={{ __html: templateHtml }}
+          <div className='diy-item' dangerouslySetInnerHTML={{ __html: templateHtml }}
             onClick={insertTitleBlank}>
           </div>
         </div>

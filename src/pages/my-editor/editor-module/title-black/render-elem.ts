@@ -3,7 +3,6 @@ import { IDomEditor, SlateElement } from '@wangeditor/editor'
 import {  IRenderElemConf } from '@wangeditor/core';
 
 /**
- * render block quote elem
  * @param elemNode slate elem
  * @param children children
  * @param editor editor
